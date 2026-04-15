@@ -1,0 +1,11 @@
+[
+  { "id": 1, "name": "AirPulse Headphones", "price": 149, "category": "Audio", "rating": 4.8, "icon": "🎧" },
+  { "id": 2, "name": "Urban Runner Sneakers", "price": 119, "category": "Fashion", "rating": 4.6, "icon": "👟" },
+  { "id": 3, "name": "Nova Smart Watch", "price": 199, "category": "Wearables", "rating": 4.9, "icon": "⌚" },
+  { "id": 4, "name": "Minimal Desk Lamp", "price": 69, "category": "Home", "rating": 4.5, "icon": "💡" },
+  { "id": 5, "name": "Flex Backpack Pro", "price": 89, "category": "Fashion", "rating": 4.7, "icon": "🎒" },
+  { "id": 6, "name": "PixelView Camera", "price": 299, "category": "Tech", "rating": 4.8, "icon": "📷" },
+  { "id": 7, "name": "Aura Bluetooth Speaker", "price": 95, "category": "Audio", "rating": 4.6, "icon": "🔊" },
+  { "id": 8, "name": "Cloud Comfort Chair", "price": 249, "category": "Home", "rating": 4.7, "icon": "🪑" },
+  { "id": 9, "name": "Edge Phone Case", "price": 29, "category": "Accessories", "rating": 4.4, "icon": "📱" }
+]
